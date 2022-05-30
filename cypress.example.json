@@ -1,0 +1,14 @@
+{
+    "baseUrl": "localhost/joomla-cms",
+    "env": {
+        "username": "tester",
+        "password": "secret",
+        "email": "tester@example.com",
+        "dbHost": "localhost",
+        "dbUser": "root",
+        "dbPw": "empty",
+        "dbName": "joomla_db",
+        "extensionPath": "my-extension_v123",
+        "extensionName": "My extension"
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "joomla-e2e",
+  "version": "1.0.0",
+  "description": "end-to-end tests for joomla",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fancyFranci/joomla-e2e.git"
+  },
+  "keywords": [
+    "joomla",
+    "e2e",
+    "cypress"
+  ],
+  "author": "Franciska Perisa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fancyFranci/joomla-e2e/issues"
+  },
+  "homepage": "https://github.com/fancyFranci/joomla-e2e#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
